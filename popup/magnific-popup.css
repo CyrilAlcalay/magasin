@@ -248,7 +248,7 @@ button::-moz-focus-inner {
     background: #000; }
 
 /* Main image in popup */
-img.mfp-img {
+/*img.mfp-img {
   width: auto;
   max-width: 100%;
   height: auto;
@@ -256,7 +256,7 @@ img.mfp-img {
   line-height: 0;
   box-sizing: border-box;
   padding: 40px 0 40px;
-  margin: 0 auto; }
+  margin: 0 auto; }*/
 
 /* The shadow behind the image */
 .mfp-figure {
@@ -304,7 +304,7 @@ img.mfp-img {
   cursor: pointer; }
 
 /*@media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
-  /**
+  /
        * Remove all paddings around the image on small screen
        
   .mfp-img-mobile .mfp-image-holder {
@@ -354,5 +354,4 @@ img.mfp-img {
     transform-origin: 100%; }
   .mfp-container {
     padding-left: 6px;
-    padding-right: 6px; } }
-$/
+    padding-right: 6px; } }*/

@@ -42,7 +42,7 @@
 		
     </body>
         
-        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+        <!--script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 		<script type="text/javascript" src="Elastislide/js/jquerypp.custom.js"></script>
 		<script type="text/javascript" src="Elastislide/js/jquery.elastislide.js"></script>
 		<script type="text/javascript">
@@ -70,7 +70,7 @@
 				el.addClass( 'current-img' );
 				carousel.setCurrent( pos );
 			}
-		</script>
+		</script--->
 </html>
 
    
